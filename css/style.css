@@ -1,0 +1,24 @@
+.nav-bar{
+    height: 80px;
+    background-color:#2c3e50;
+}
+
+.green{
+    height: 350px;
+    background-color: green;
+
+
+
+
+
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+
+}
+
