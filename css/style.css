@@ -10,6 +10,12 @@
 
 }
 
+.section-container{
+    background-color: #1abc9c;
+    
+}
+
+
 .center {
     display: flex;
     align-items:center;
@@ -29,8 +35,15 @@
     
 }
 
-.mg-bot{
+.titolo-boxes{
+    margin-top:30px;
     margin-bottom: 35px;
+}
+
+.about-content{
+    color: white;
+    /* height: 300px; */
+
 }
 
 .mg-all-bot{
@@ -43,7 +56,7 @@
 
 }
 
-.line-star, .star-top{
+.line-star, .star-top, .about-star{
     display:inline-block;
     font-size: 18px;
 }
@@ -63,9 +76,9 @@
     color:white;
 }
 
-.center p{
-    background-color: turquoise;
-    color:black;
+.download button{
+    background-color:#1abc9c;
+    border-color: #fff;
 }
 
 .form{
