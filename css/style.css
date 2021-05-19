@@ -5,17 +5,10 @@
 
 .green{
     height: 500px;
+    margin-bottom: 50px;
     background-color: #1abc9c;
 
 }
-.header-container{
-    text-align: center;
-    width: 200px;
-    height: 200px;
-}
-
-
-
 
 .center {
     display: flex;
@@ -23,6 +16,7 @@
     justify-content: center;
     
 }
+
 
 .avatar{
     width: 250px;
@@ -35,12 +29,22 @@
     
 }
 
+.mg-bot{
+    margin-bottom: 35px;
+}
+
+.mg-all-bot{
+    margin-bottom: 60px;
+}
+
+
 .item{
     margin-bottom: 24px;
 
 }
 
-i{
+.line-star, .star-top{
+    display:inline-block;
     font-size: 18px;
 }
 
@@ -49,6 +53,7 @@ i{
 .item img{
     width:100%;
     height: auto;
+    border-radius: 25px;
     
 
 }
