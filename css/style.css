@@ -56,7 +56,7 @@
 
 }
 
-.line-star, .star-top, .about-star{
+.line-star, .star-top, .about-star, .footer-star{
     display:inline-block;
     font-size: 18px;
 }
@@ -84,6 +84,17 @@
 .form{
     background-color: whitesmoke;
 }
+
+.input-row{
+    width: 100%;
+    border: none;
+    border-bottom: #e3e3e3 1px solid;
+    margin-bottom: 25px;
+    }
+    
+    #message{
+        height: 80px;
+    }
 
 .footer{
     background-color:#3a546d ;
